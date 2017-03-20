@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from solver.constraint import *
+from solver.constraint import Problem, AllDifferentConstraint
 
 COLS = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i']
 
